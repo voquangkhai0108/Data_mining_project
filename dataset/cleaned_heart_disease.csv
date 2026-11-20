@@ -1,4 +1,4 @@
-Age,Gender,Blood_Pressure,Cholesterol_Level,Exercise_Habits,Smoking,Family_Heart_Disease,Diabetes,BMI,High_Blood_Pressure,Low_HDL_Cholesterol,High_LDL_Cholesterol,Alcohol_Consumption,Stress_Level,Sleep_Hours,Sugar_Consumption,Triglyceride_Level,Fasting_Blood_Sugar,CRP_Level,Homocysteine_Level,Heart_Disease_Status
+Age,Gender,Blood Pressure,Cholesterol Level,Exercise Habits,Smoking,Family Heart Disease,Diabetes,BMI,High Blood Pressure,Low HDL Cholesterol,High LDL Cholesterol,Alcohol Consumption,Stress Level,Sleep Hours,Sugar Consumption,Triglyceride Level,Fasting Blood Sugar,CRP Level,Homocysteine Level,Heart Disease Status
 69.0,Female,146.0,286.0,High,No,Yes,Yes,25.2217985244363,No,Yes,No,Medium,High,8.744033968961478,Medium,133.0,157.0,9.355389404894291,19.298875477603804,No
 46.0,Male,126.0,216.0,Low,No,No,No,29.85544714237164,No,Yes,Yes,Low,Low,4.440440123722014,Low,393.0,92.0,12.70987253489807,11.230925676461878,No
 32.0,Female,122.0,293.0,High,Yes,Yes,No,24.130476882852445,Yes,No,Yes,Low,High,5.249404701688199,High,293.0,94.0,12.509046193779335,5.961958073450258,No
